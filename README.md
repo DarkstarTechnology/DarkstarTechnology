@@ -1,6 +1,6 @@
 # Hi there, I'm J! 👋
 
-I'm a passionate software developer and student at Ivy Tech University, specializing in building robust applications with .NET and Angular. With a keen interest in modern technologies and software architecture, I strive to create efficient and scalable solutions.
+I'm a software developer, specializing in building robust applications with .NET and Angular. With a keen interest in modern technologies and software architecture, I strive to create efficient and scalable solutions.
 
 ## 🔭 I’m currently working on
 - Angular web applications for online gaming communities
